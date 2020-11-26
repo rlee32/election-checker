@@ -1,5 +1,5 @@
-Registered votes source:
+This performs basic sanity checks on PA's Full Voter Export (FVE) to identify invalid voters.
 
-File for each county (no headers): https://gofile.io/d/mz8e0g
-One file containing all counties and header: https://gofile.io/d/eTmJmw
-Header columns and acronym code definitions: https://gofile.io/d/e9g7ei
+Official website for FVE (purchase required): https://www.pavoterservices.pa.gov/pages/purchasepafullvoterexport.aspx
+The terms of the purchase is that these files cannot be distributed, so unfortunately I cannot provide download links.
+
