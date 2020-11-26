@@ -4,6 +4,7 @@
 
 # Point this to the directory containing the FVE files.
 data_dir = '../data/pa-statewide/'
+data_dir = '../data/PA_Statewide_Voter_Rolls_2020-11-23/PA_Statewide_Voter_Rolls_11-23/'
 
 # format YYYYMMDD, any voter with a DOB less than this will be considered invalid.
 min_dob = 19070202
